@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 # In[28]:
 
 
-dataset=pd.read_csv(r"C:\Users\prama\Downloads\archive (6)\train_u6lujuX_CVtuZ9i.csv")
+dataset=pd.read_csv(r" Dataset path ")
 
 
 # In[29]:
